@@ -22,6 +22,9 @@ class App extends Component {
                <div className="column">
                     <Todo buttonColor="grey"/>
               </div>
+              <div className="column">
+                    <Todo buttonColor="grey"/>
+              </div>
              
 
 
